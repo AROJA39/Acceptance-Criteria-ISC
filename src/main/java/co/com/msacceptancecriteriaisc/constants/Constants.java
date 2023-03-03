@@ -9,7 +9,8 @@ public class Constants {
 	
 	public static final int SERVERPORT = 8090;
 
-	public static final String ENDPOINTUPLOADFILE = "http://10.94.90.211:8085/get?JSON=";
+	//public static final String ENDPOINTUPLOADFILE = "http://10.94.90.211:8085/get?JSON=";
+	public static final String ENDPOINTUPLOADFILE = "http://localhost:8085/get?JSON=";
 	public static final String STATUS = "STATUS";
 	public static final String ERROR = "ERROR";
 	public static final String VERSION = "1.0.0";
